@@ -10,6 +10,9 @@ Talkie is a real-time chat application built using React, Vite, and Firebase. Th
 - Emoji support
 - View timestamps of sent messages
 - View the last message under the sender's username
+- Distinguish between seen and unseen Chats
+- Recent messages are shown first
+- Users who sent the most recent messages appear at the top of the Chatlist
 
 ## Getting Started
 
